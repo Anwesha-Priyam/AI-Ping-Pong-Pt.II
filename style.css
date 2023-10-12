@@ -1,0 +1,46 @@
+body
+{
+    background-image: "backgroud1.jpg";
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#bigImg
+{
+    width: 100%;
+}
+
+#start,#status
+{
+    font-size: 22px;
+}
+
+.btn
+{
+    color: rgb(248, 83, 116);
+    background-color: aqua;
+}
+
+footer
+{
+    bottom: 0%;
+    color: aliceblue;
+    background-color: indianred;
+    font: italic;
+    position: sticky;
+    background-size: contain;
+}
